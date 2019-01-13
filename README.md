@@ -11,4 +11,4 @@
 1. Friend Finder. Node and Express Servers.
 1. Eat Da Burger. Develop in Node Express Handlebars.
 1. Project 2. Task, manager, notes and more. Sequelize the Task.
-1. All the News That's Fit to Scrape. Scrape news from another site with Mongoose and Cheerio
+1. All the News That's Fit to Scrape. Scrape news from another site with Mongoose and Cheerio.
